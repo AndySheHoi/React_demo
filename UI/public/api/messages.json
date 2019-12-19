@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "data": {
+        "messageList": [{
+            "id": 1,
+            "type": "output",
+            "text": "Hello, how can I help you?"
+        },{
+            "id": 2,
+            "type": "input",
+            "text": "What is CNN?"
+        },{
+            "id": 3,
+            "type": "output",
+            "text": "In deep learning, a convolutional neural network is a class of deep neural networks, most commonly applied to analyzing visual imagery. CNNs use a variation of multilayer perceptrons designed to require minimal preprocessing."
+        }]
+    }
+}

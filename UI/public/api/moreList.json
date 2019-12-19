@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "data": [{
+            "id": 4,
+            "question": "What is Convolutional Neural Network (CNN)?",
+            "description": "desc",
+            "imgUrl": "https://adeshpande3.github.io/assets/Cover.png"
+        },{
+            "id": 5,
+            "question": "What is Max Pooling?",
+            "description": "desc",
+            "imgUrl": "https://computersciencewiki.org/images/8/8a/MaxpoolSample2.png"
+        },{
+            "id": 6,
+            "question": "What is Zero Padding?",
+            "description": "desc",
+            "imgUrl": "http://xrds.acm.org/blog/wp-content/uploads/2016/06/Figure_3.png"
+    }]
+
+}
